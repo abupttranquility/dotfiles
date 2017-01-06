@@ -1,6 +1,0 @@
-2017/01/04-23:12:19.434196 7fbdced6b700 Recovering log #161
-2017/01/04-23:12:19.434251 7fbdced6b700 Level-0 table #163: started
-2017/01/04-23:12:19.482582 7fbdced6b700 Level-0 table #163: 252 bytes OK
-2017/01/04-23:12:19.566436 7fbdced6b700 Delete type=3 #160
-2017/01/04-23:12:19.566475 7fbdced6b700 Delete type=0 #161
-2017/01/04-23:12:19.595455 7fbdaffff700 Moved #106 to level-1 224 bytes OK: files[ 3 4 0 0 0 0 0 ]

@@ -1,1 +1,0 @@
-var INSTALLED_DETAILS;chrome.runtime.onInstalled.addListener(function(a){INSTALLED_DETAILS=a,"install"===a.reason?chrome.tabs.create({url:"http://mauf.codekiem.com/thank-you.html",active:!0}):"update"===a.reason});

@@ -1,1 +1,0 @@
-require.load=function(context,moduleName,url){var xhr=new XMLHttpRequest,evalResponseText=function(xhr){eval(xhr.responseText),context.completeLoad(moduleName)};xhr.open("GET",url,!0),xhr.onreadystatechange=function(a){4===xhr.readyState&&200===xhr.status&&evalResponseText.call(window,xhr)},xhr.send(null)};
