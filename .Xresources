@@ -1,0 +1,41 @@
+! xolarized
+
+xterm*background:            #1c1c1c
+xterm*foreground:            #626262
+xterm*fading:                40
+xterm*fadeColor:             #1c1c1c
+xterm*cursorColor:           #8a8a8a
+xterm*pointerColorBackground:#585858
+xterm*pointerColorForeground:#8a8a8a
+
+!! black dark/light
+xterm*color0:                #262626
+xterm*color8:                #1c1c1c
+
+!! red dark/light
+xterm*color1:                #d70000
+xterm*color9:                #d75f00
+
+!! green dark/light
+xterm*color2:                #5f8700
+xterm*color10:               #585858
+
+!! yellow dark/light
+xterm*color3:                #af8700
+xterm*color11:               #626262
+
+!! blue dark/light
+xterm*color4:                #0087ff
+xterm*color12:               #808080
+
+!! magenta dark/light
+xterm*color5:                #af005f
+xterm*color13:               #5f5faf
+
+!! cyan dark/light
+xterm*color6:                #00afaf
+xterm*color14:               #8a8a8a
+
+!! white dark/light
+xterm*color7:                #e4e4e4
+xterm*color15:               #ffffd7
