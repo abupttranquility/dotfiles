@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "Conta"
+   },
+   "apply": {
+      "message": "Aplicar"
+   },
+   "audio_default_filename": {
+      "message": "Audio sen título"
+   },
+   "authorization_needed": {
+      "message": "Tes que autorizar a Gardar en Google Drive."
+   },
+   "cancel": {
+      "message": "Cancelar"
+   },
+   "cannot_capture_chrome": {
+      "message": "Non se pode realizar unha captura de pantalla das páxinas de Chrome. Téntao cunha páxina web estándar."
+   },
+   "change_dest_folder": {
+      "message": "Cambiar cartafol de destino..."
+   },
+   "chrome_extension_name": {
+      "message": "Gardar en Google Drive"
+   },
+   "close": {
+      "message": "Pechar"
+   },
+   "convert_to_google_format": {
+      "message": "Converter unha ligazón gardada en formato de editor de Google"
+   },
+   "debug": {
+      "message": "Depurar"
+   },
+   "default_filename": {
+      "message": "Sen título"
+   },
+   "download_canceled": {
+      "message": "Descarga cancelada."
+   },
+   "download_failure": {
+      "message": "Erro de descarga: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "Erro de descarga: non se recibiron datos."
+   },
+   "download_failure_too_big_mb": {
+      "message": "Erro na descarga: a fonte é demasiado grande ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "Descargando $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "Descargando..."
+   },
+   "empty_page_capture": {
+      "message": "Non se puido capturar o contido da páxina como MHTML."
+   },
+   "enable_file_url": {
+      "message": "Hai que habilitar os URL dos ficheiros coa opción \"Permitir acceso aos URL dos ficheiros\" na páxina de configuración das extensións."
+   },
+   "ext_description": {
+      "message": "Garda contido web ou capturas de pantalla directamente en Google Drive."
+   },
+   "failure_page_capture": {
+      "message": "Non se puido capturar o contido da páxina como MHTML: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Enviar comentarios (só interno)"
+   },
+   "file_bug_internal": {
+      "message": "Arquivar un erro (só interno)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> gardouse en \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">Cambiar\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> moveuse á papeleira. Vai a \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google Drive\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help": {
+      "message": "Axuda"
+   },
+   "html_default_filename": {
+      "message": "HTML sen título"
+   },
+   "image_capture_failed": {
+      "message": "Non se puido capturar a imaxe."
+   },
+   "image_capture_failed_reason": {
+      "message": "Non se puido capturar a imaxe ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "Imaxe sen título"
+   },
+   "invalid_url": {
+      "message": "URL non válido: $1. Os URL descargados deben comezar con http://, https:// ou file://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Untitled Page Capture.mht"
+   },
+   "misc": {
+      "message": "Outros"
+   },
+   "my_drive": {
+      "message": "A miña unidade"
+   },
+   "options_header_text": {
+      "message": "Opcións da extensión Gardar en Google Drive"
+   },
+   "options_title": {
+      "message": "Opcións de Gardar en Google Drive"
+   },
+   "page_size_not_supported": {
+      "message": "Non se admite o tamaño da páxina: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "PDF sen título"
+   },
+   "percent": {
+      "message": "$1% completado",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Privacidade"
+   },
+   "rename": {
+      "message": "Cambiar o nome"
+   },
+   "rename_prompt": {
+      "message": "Cambiar o nome:"
+   },
+   "save_as_html": {
+      "message": "Código fonte HTML (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Documento de Google"
+   },
+   "save_as_image_entire": {
+      "message": "Imaxe de páxina completa (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "Imaxe da páxina visible (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "Ficheiro web (.mht)"
+   },
+   "save_audio": {
+      "message": "Gardar o audio en Google Drive"
+   },
+   "save_image": {
+      "message": "Gardar a imaxe en Google Drive"
+   },
+   "save_link": {
+      "message": "Gardar a ligazón en Google Drive"
+   },
+   "save_page_as": {
+      "message": "Gardar páxina como:"
+   },
+   "save_to_folder_text": {
+      "message": "Cartafol para gardar"
+   },
+   "save_to_google_drive_action": {
+      "message": "Gardar en Google Drive"
+   },
+   "save_video": {
+      "message": "Gardar o vídeo en Google Drive"
+   },
+   "saving": {
+      "message": "Gardando $1 en Google Drive...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Seleccionar un cartafol para gardar"
+   },
+   "send_feedback": {
+      "message": "Enviar comentarios"
+   },
+   "sign_out": {
+      "message": "Pechar sesión"
+   },
+   "start_download_exception": {
+      "message": "Fallou o inicio da descarga: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "Texto sen título"
+   },
+   "trash": {
+      "message": "Papeleira"
+   },
+   "unspecified_error": {
+      "message": "Erro non especificado"
+   },
+   "upload_canceled": {
+      "message": "Carga cancelada"
+   },
+   "upload_failure": {
+      "message": "Erro na carga: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "Cargando $1 en Google Drive...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">Abre a ligazón\u003C/a> e garda a páxina co botón Gardar en Google Drive, situado á dereita da barra de enderezos.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "Esta é unha ligazón a unha páxina web"
+   },
+   "video_default_filename": {
+      "message": "Vídeo sen título"
+   },
+   "xml_default_filename": {
+      "message": "XML sen título"
+   }
+}

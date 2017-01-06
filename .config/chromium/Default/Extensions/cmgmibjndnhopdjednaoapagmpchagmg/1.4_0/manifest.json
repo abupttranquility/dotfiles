@@ -1,0 +1,28 @@
+{
+   "author": "Dara Javaherian",
+   "background": {
+      "page": "bg.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+   },
+   "content_scripts": [ {
+      "css": [ "styles.css" ],
+      "js": [ "jquery.js", "inject.js" ],
+      "matches": [ "https://www.youtube.com/*", "http://www.youtube.com/*" ]
+   } ],
+   "description": "Search YouTube without stopping the video, and make your own playlists!",
+   "icons": {
+      "128": "youtube-128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhk4MYV5ICYSZx/A17q7GDUozONmAPdcIhsA9mR5WzN/fFMkkul+Qqmv9kUqF4mREtcKV5S5edv17nreTLMZ309Q5tYn4imLj9j+RGV07ciG/yV4EXR9lBKdRLjOkP3G3et2pScVTAIUfg3Ncwdj4y68WdMyN7k5iHPTsl7q9gG5yRsxUoML9K0ziLdTBSMZwVw5SaMmP+WCxuLy1nxUbQ1s46Wer9H+mrIF9RTIwGjcUVFMdhz9GPkF4Mb0pDgJt6pa2Lg/7HzFA/M+384pduIk6OHoHWVW9HAU01CUZGXhlttfIh52reggnB1TbainaTf8jl0OmuYOoBaAX/zapkQIDAQAB",
+   "manifest_version": 2,
+   "name": "QueueTube for YouTube!",
+   "permissions": [ "tabs", "*://*.youtube.com/*" ],
+   "short_name": "QueueTube",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.4",
+   "web_accessible_resources": [ "spinner.gif" ]
+}

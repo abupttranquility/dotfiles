@@ -1,0 +1,16 @@
+{
+	"added_words":
+	[
+		"Koheleta",
+		"Radziuk"
+	],
+	"color_scheme": "Packages/Materialize/schemes/Material Solarized Dark.tmTheme",
+	"dictionary": "Packages/Dictionaries/Polish.dic",
+	"font_face": "Noto Mono",
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Material Solarized Dark.sublime-theme"
+}

@@ -1,0 +1,15 @@
+2017/01/06-11:26:44.717 504 Reusing MANIFEST /home/hackerman/.config/chromium/Default/Session Storage/MANIFEST-000001
+2017/01/06-11:26:44.717 504 Recovering log #1096
+2017/01/06-11:26:44.762 504 Reusing old log /home/hackerman/.config/chromium/Default/Session Storage/001096.log 
+2017/01/06-11:30:48.922 1623 Level-0 table #1100: started
+2017/01/06-11:30:48.955 1623 Level-0 table #1100: 26127 bytes OK
+2017/01/06-11:30:48.997 1623 Delete type=0 #1096
+2017/01/06-11:30:48.997 1623 Compacting 4@0 + 1@1 files
+2017/01/06-11:30:49.081 1623 Generated table #1101@0: 3086 keys, 82443 bytes
+2017/01/06-11:30:49.081 1623 Compacted 4@0 + 1@1 files => 82443 bytes
+2017/01/06-11:30:49.123 1623 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/01/06-11:30:49.123 1623 Delete type=2 #1094
+2017/01/06-11:30:49.123 1623 Delete type=2 #1100
+2017/01/06-11:30:49.123 1623 Delete type=2 #1097
+2017/01/06-11:30:49.123 1623 Delete type=2 #1090
+2017/01/06-11:30:49.123 1623 Delete type=2 #1092

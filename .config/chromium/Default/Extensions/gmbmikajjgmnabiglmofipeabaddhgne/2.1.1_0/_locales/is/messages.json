@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "Reikningur"
+   },
+   "apply": {
+      "message": "Nota"
+   },
+   "audio_default_filename": {
+      "message": "Hljóð án titils"
+   },
+   "authorization_needed": {
+      "message": "Þú verður að veita Vista í Google Drive heimild."
+   },
+   "cancel": {
+      "message": "Hætta við"
+   },
+   "cannot_capture_chrome": {
+      "message": "Ekki tókst að taka skjámynd af Chrome síðu. Prófaðu venjulega vefsíðu."
+   },
+   "change_dest_folder": {
+      "message": "Breyta viðtökumöppu..."
+   },
+   "chrome_extension_name": {
+      "message": "Vista í Google Drive"
+   },
+   "close": {
+      "message": "Loka"
+   },
+   "convert_to_google_format": {
+      "message": "Umbreyta vistuðum tengli í Google ritilssnið"
+   },
+   "debug": {
+      "message": "Kemba"
+   },
+   "default_filename": {
+      "message": "Ónefnt"
+   },
+   "download_canceled": {
+      "message": "Hætt við niðurhal"
+   },
+   "download_failure": {
+      "message": "Niðurhal mistókst: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "Niðurhalsbilun: Engin gögn hafa borist."
+   },
+   "download_failure_too_big_mb": {
+      "message": "Niðurhal mistókst: Of stór upprunaskrá ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "Sækir $1 ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "Sækir ..."
+   },
+   "empty_page_capture": {
+      "message": "Ekki tókst að fanga efni síðu sem MHTML."
+   },
+   "enable_file_url": {
+      "message": "Kveikt þarf að vera á slóðum á skrár með valkostinum „Leyfa aðgang að slóðum á skrár“ og síðunni Stillingar viðbóta."
+   },
+   "ext_description": {
+      "message": "Vista vefefni eða skjámynd beint í Google Drive."
+   },
+   "failure_page_capture": {
+      "message": "Tókst ekki að fanga efni síðu sem MHTML: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Senda álit (aðeins innanhúss)"
+   },
+   "file_bug_internal": {
+      "message": "Tilkynna villu (aðeins innanhúss)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> var vistuð á \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">breyta\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> var hent í ruslið. Fara í \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google Drive\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help": {
+      "message": "Hjálp"
+   },
+   "html_default_filename": {
+      "message": "HTML án titils"
+   },
+   "image_capture_failed": {
+      "message": "Mistókst að taka mynd."
+   },
+   "image_capture_failed_reason": {
+      "message": "Myndataka mistókst ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "Mynd án titils"
+   },
+   "invalid_url": {
+      "message": "Ógild vefslóð: $1. Sóttar vefslóðir verða að hefjast á http://, https:// eða file://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Ónefnt síðuskot.mht"
+   },
+   "misc": {
+      "message": "Ýmislegt"
+   },
+   "my_drive": {
+      "message": "Drifið mitt"
+   },
+   "options_header_text": {
+      "message": "Valkostir Vista í Google Drive viðbótar"
+   },
+   "options_title": {
+      "message": "Valkostir Vista í Google Drive"
+   },
+   "page_size_not_supported": {
+      "message": "Stærð síðu ekki studd: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "PDF án titils"
+   },
+   "percent": {
+      "message": "$1% lokið",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Persónuvernd"
+   },
+   "rename": {
+      "message": "Endurnefna"
+   },
+   "rename_prompt": {
+      "message": "Endurnefna:"
+   },
+   "save_as_html": {
+      "message": "HTML-kóða (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Google skjal"
+   },
+   "save_as_image_entire": {
+      "message": "Mynd af allri síðunni (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "Mynd af sýnilegum hluta síðunnar (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "Vefsafnskrá (.mht)"
+   },
+   "save_audio": {
+      "message": "Vista hljóð í Google Drive"
+   },
+   "save_image": {
+      "message": "Vista mynd í Google Drive"
+   },
+   "save_link": {
+      "message": "Vista tengil í Google Drive"
+   },
+   "save_page_as": {
+      "message": "Vista síðu sem:"
+   },
+   "save_to_folder_text": {
+      "message": "Vista í möppu"
+   },
+   "save_to_google_drive_action": {
+      "message": "Vista í Google Drive"
+   },
+   "save_video": {
+      "message": "Vista myndskeið í Google Drive"
+   },
+   "saving": {
+      "message": "Vistar $1 í Google Drive...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Veldu möppu til að vista í"
+   },
+   "send_feedback": {
+      "message": "Senda inn álit"
+   },
+   "sign_out": {
+      "message": "Skrá út"
+   },
+   "start_download_exception": {
+      "message": "Mistókst að hefja niðurhal: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "Texti án titils"
+   },
+   "trash": {
+      "message": "Rusl"
+   },
+   "unspecified_error": {
+      "message": "Ótilgreind villa"
+   },
+   "upload_canceled": {
+      "message": "Hætt við upphleðslu"
+   },
+   "upload_failure": {
+      "message": "Bilun við að hlaða inn: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "Hleður $1 inn í Google Drive...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">Opnaðu tengilinn\u003C/a> og vistaðu síðuna með því að nota hnappinn Vista í Google Drive hægra megin við veffangastikuna.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "Þetta er tengill á vefsíðu"
+   },
+   "video_default_filename": {
+      "message": "Myndskeið án titils"
+   },
+   "xml_default_filename": {
+      "message": "XML án titils"
+   }
+}

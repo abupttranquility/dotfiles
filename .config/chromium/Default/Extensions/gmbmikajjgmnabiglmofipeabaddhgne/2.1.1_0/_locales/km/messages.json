@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "គណនី"
+   },
+   "apply": {
+      "message": "អនុវត្ត"
+   },
+   "audio_default_filename": {
+      "message": "សម្លេងដែលគ្មានចំណងជើង"
+   },
+   "authorization_needed": {
+      "message": "អ្នក​ត្រូវ​តែ​ផ្ដល់​សិទ្ធិ រក្សាទុក​ក្នុង​ថាស Google ។"
+   },
+   "cancel": {
+      "message": "បោះបង់"
+   },
+   "cannot_capture_chrome": {
+      "message": "មិន​អាច​ថត​អេក្រង់​ទំព័រ​ Chrome ​។ សូម​សាកល្បង​ទំព័រ​បណ្ដាញ​ស្តង់ដារ​។"
+   },
+   "change_dest_folder": {
+      "message": "ប្ដូរ​​ថត​ទិសដៅ​​..."
+   },
+   "chrome_extension_name": {
+      "message": "រក្សាទុក​ក្នុង​ថាស Google"
+   },
+   "close": {
+      "message": "បិទ"
+   },
+   "convert_to_google_format": {
+      "message": "បន្លែង​តំណ​​ដែល​បាន​រក្សា​ទុក​ទៅ​ជា​ទម្រង់​ Google កម្មវិធី​និពន្ធ​"
+   },
+   "debug": {
+      "message": "កែ​កំហុស"
+   },
+   "default_filename": {
+      "message": "គ្មាន​ចំណង​ជើង"
+   },
+   "download_canceled": {
+      "message": "ការទាញយកបានបោះបង់។"
+   },
+   "download_failure": {
+      "message": "ការទាញយកបរាជ័យ៖$1។",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "ការទាញយកបរាជ័យ៖ គ្មានទិន្នន័យទទួលបានទេ។"
+   },
+   "download_failure_too_big_mb": {
+      "message": "ការទាញយកបរាជ័យ៖ប្រភពដើមធំពេក($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "កំពុងទាញយក$1 ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "កំពុងទាញយក ..."
+   },
+   "empty_page_capture": {
+      "message": "មិនអាចចាប់យកមាតិកានៃទំព័រជាMHTMLទេ។"
+   },
+   "enable_file_url": {
+      "message": "ឯកសាURLsត្រូវតែអាចធ្វើទៅបានជាមួយជំរើស\"អនុញ្ញាតអោយចូលទៅឯកសាURLs\" នៅលើការកំណត់ការបន្តទំព័រ។"
+   },
+   "ext_description": {
+      "message": "រក្សា​ទុក​មាតិកា​បណ្ដាញ​ឬ​ការ​ចាប់​យក​អេក្រង់​ដោយ​ផ្ទាល់​ទៅ ថាស​Google ។"
+   },
+   "failure_page_capture": {
+      "message": "មិនអាចចាប់យកមាតិកានៃទំព័រជាMHTMLទេ៖$1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "ផ្ញើ​មតិ​ឆ្លើយ​តប (សម្រាប់​ផ្ទៃ​ក្នុង)"
+   },
+   "file_bug_internal": {
+      "message": "រៀបចំ​កំហុស (សម្រាប់​ផ្ទៃ​ក្នុង)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\"> \u003C/a> ត្រូវ​បាន​រក្សា​ទុក​ទៅ \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\"> \u003C/a> ។ \u003Cspan id=\"$5\"> ( \u003Ca href=\"$6\" target=\"_blank\"> ការ​ផ្លាស់​ប្តូ​រ \u003C/a> ) \u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\"> \u003C/span> ត្រូវ​បាន​ចោល​ទៅ​ធុង​សំរាម​។ សូម​ចូល​ទៅកាន់ \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\"> ថាស​Google \u003C/a> ។",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "ថាស​Google"
+   },
+   "help": {
+      "message": "ជំនួយ"
+   },
+   "html_default_filename": {
+      "message": "HTMLដែលគ្មានចំណងជើង"
+   },
+   "image_capture_failed": {
+      "message": "បរាជ័យ​ក្នុង​ការ​ចាប់​យក​រូបភាព"
+   },
+   "image_capture_failed_reason": {
+      "message": "ចាប់​យក​រូបភាព​បាន​បរាជ័យ ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "រូបភាពគ្មានឈ្មោះ"
+   },
+   "invalid_url": {
+      "message": "URL មិនត្រឹមត្រូវ៖ $1។ URL ទាញយក​ត្រូវ​ចាប់ផ្ដើម​ដោយ http://, https://, ឬ file://។",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "ទំព័រគ្មានឈ្មោះCapture.mht"
+   },
+   "misc": {
+      "message": "Misc"
+   },
+   "my_drive": {
+      "message": "ថាស​របស់​ខ្ញុំ"
+   },
+   "options_header_text": {
+      "message": "ជម្រើស​ផ្នែក​បន្ថែម រក្សាទុក​ក្នុង​ថាស Google"
+   },
+   "options_title": {
+      "message": "ជម្រើស រក្សាទុក​ក្នុង​ថាស Google"
+   },
+   "page_size_not_supported": {
+      "message": "ទំហំ​ទំព័រ​មិនបាន​គាំទ្រ៖ $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "PDFគ្មានឈ្មោះ"
+   },
+   "percent": {
+      "message": "រូចរាល់$1%",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "​ឯកជនភាព"
+   },
+   "rename": {
+      "message": "ប្ដូរ​ឈ្មោះ"
+   },
+   "rename_prompt": {
+      "message": "ប្ដូរ​ឈ្មោះ"
+   },
+   "save_as_html": {
+      "message": "ប្រភពHTML(.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "ឯកសាGoogle"
+   },
+   "save_as_image_entire": {
+      "message": "រូបភាពនៃទំព័រដែលមានស្រាប់(.png)"
+   },
+   "save_as_image_visible": {
+      "message": "រូបភាព​ទំព័រ​មើល​ឃើញ (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "ឯកសាគេហទំព័រ(.mht)"
+   },
+   "save_audio": {
+      "message": "រក្សាសំលេងទៅក្នុងថាស​Google"
+   },
+   "save_image": {
+      "message": "រក្សារូបភាពទៅក្នុងថាស​Google"
+   },
+   "save_link": {
+      "message": "រក្សាដំណភ្ជាប់ទៅក្នុងថាស​Google"
+   },
+   "save_page_as": {
+      "message": "រក្សាទំព័រជា៖"
+   },
+   "save_to_folder_text": {
+      "message": "រក្សា​ទុក​ក្នុង​ថត"
+   },
+   "save_to_google_drive_action": {
+      "message": "រក្សាទុក​ទៅ ថាស​Google"
+   },
+   "save_video": {
+      "message": "រក្សាវីដេអូទៅក្នុងថាស​Google"
+   },
+   "saving": {
+      "message": "កំពុង​រក្សាទុក $1 ទៅ ថាស​Google...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "ជ្រើស​រក្សា​ទុក​ក្នុង​ថត"
+   },
+   "send_feedback": {
+      "message": "ផ្ញើ​មតិ​ឆ្លើយតប"
+   },
+   "sign_out": {
+      "message": "ចេញ"
+   },
+   "start_download_exception": {
+      "message": "បរាជ័យក្នុងការចាប់ផ្តើមទាញយក៖$1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "អត្ថបទដែលគ្មានចំណងជើង"
+   },
+   "trash": {
+      "message": "ធុង​សំរាម"
+   },
+   "unspecified_error": {
+      "message": "កំហុសមិនជាក់លាក់"
+   },
+   "upload_canceled": {
+      "message": "បោះបង់ការផ្ទុកឡើង"
+   },
+   "upload_failure": {
+      "message": "ផ្ទុក​ឡើង​បរាជ័យ៖ $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "កំពុង​ធ្វើ​បច្ចុប្បន្នភាព $1 ទៅ ថាស​Google...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">បើក​តំណ\u003C/a> និង​រក្សាទុក​ទំព័រ​ដោយ​ប្រើ​ប៊ូតុង រក្សាទុក​ទៅ ថាស​Google នៅ​ខាង​ស្ដាំ​របារ​អាសយដ្ឋាន។",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "នេះ​ជា​តំណ​ទៅ​ទំព័រ​បណ្ដាញ"
+   },
+   "video_default_filename": {
+      "message": "វីដេអូដែលគ្មានចំណងជើង"
+   },
+   "xml_default_filename": {
+      "message": "XMLដែលគ្មានចំណងជើង"
+   }
+}

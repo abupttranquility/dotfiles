@@ -1,0 +1,20 @@
+{
+   "content_scripts": [ {
+      "js": [ "src/inject/inject.js" ],
+      "matches": [ "https://*/*", "http://*/*" ]
+   } ],
+   "description": "Use backspace to go back to the previous page you were on.",
+   "homepage_url": "https://github.com/j-delaney/back-to-backspace",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnW4O3TBOYTJJVeTmlKj0QGItbj4o2toZCFdWjzYgDEIDswEalnsk2Ph1J9pL/AncMku0koHZqWZV9A41sfO49hCrYzLJJB0ihySSxyLE1Yr8Xz3BnavF2YGP6e/WEC8LGKnZHGv8SlHJPDgMqMA0AMvP5ZybnM/zSUHoE+lrIQjgl5Kc0dP3jt64skCs7VIypJ4DHzcFh0ph4h+J5nzXa5XMSdi/d3babCo+fmnnz0GHAU8pzo1veqwksgWuTKCPEaIMl4peiuBV/82BBUemGzlFa1uQbQ8l4h2V1l5cx6FZFSh+lyRdrFn0f9+dvapenoBPHJ7fgQpouUwAOQbMLwIDAQAB",
+   "manifest_version": 2,
+   "name": "Back to Backspace",
+   "permissions": [ "https://*/*", "http://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.3.0"
+}

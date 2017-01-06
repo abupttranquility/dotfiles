@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "I-akhawunti"
+   },
+   "apply": {
+      "message": "Faka"
+   },
+   "audio_default_filename": {
+      "message": "Umsindo okungenasihloko"
+   },
+   "authorization_needed": {
+      "message": "Kumele ugunyaze Londoloza ku-Google Drayivu."
+   },
+   "cancel": {
+      "message": "Khansela"
+   },
+   "cannot_capture_chrome": {
+      "message": "Ayikwazi ukubamba isikrini samakhasi e-Chrome. Zama ikhasi lewebhu elivamile."
+   },
+   "change_dest_folder": {
+      "message": "Shintsha ifolda ozolondoloza kuyo..."
+   },
+   "chrome_extension_name": {
+      "message": "Londoloza ku-Google Drayivu"
+   },
+   "close": {
+      "message": "Vala"
+   },
+   "convert_to_google_format": {
+      "message": "Guqulela isixhumanisi esilondoloziwe kufomethi yomhleli we-Google"
+   },
+   "debug": {
+      "message": "Susa iphutha"
+   },
+   "default_filename": {
+      "message": "Akunasihloko"
+   },
+   "download_canceled": {
+      "message": "Ukulayisha kukhanseliwe."
+   },
+   "download_failure": {
+      "message": "Ukungaphumeleli kokulanda: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "Ukungaphumeleli kokulanda: Ayikho idatha etholakele."
+   },
+   "download_failure_too_big_mb": {
+      "message": "Ukulanda kuhlulekile: Umthombo mkhulu kakhulu ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "Kuyalandwa $1 ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "Kuyalandwa..."
+   },
+   "empty_page_capture": {
+      "message": "Asikwazanga ukuthola okuqukethwe kwekhasi njenge-MHTML."
+   },
+   "enable_file_url": {
+      "message": "Amafayela e-URL kumelwe anikwe amandla ekukhetheni okuthi \"Vumela ukufinyelela efayeleni ama-URL\" ekhasini lamasethingi lezengezo."
+   },
+   "ext_description": {
+      "message": "Londoloza okuqukethwe kwewebhu noma thwebula isikrini ngokuqondile ku-Google Drayivu."
+   },
+   "failure_page_capture": {
+      "message": "Asikwazanga ukuthola okuqukethwe kwekhasi njenge-MHTML: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Thumela impendulo (ngaphakathi kuphela)"
+   },
+   "file_bug_internal": {
+      "message": "Beka iphutha kufayela (ngaphakathi kuphela)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">I-\u003C/a> ilondolozwe ku-\u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">shintsha\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "I-\u003Cspan id=\"$1\">\u003C/span> iyiswe kudoti. Iya ku-\u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google Drayivu\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drayivu"
+   },
+   "help": {
+      "message": "Usizo"
+   },
+   "html_default_filename": {
+      "message": "I-HTML engenasihloko"
+   },
+   "image_capture_failed": {
+      "message": "Ukuthathwa kwesithombe kuhlulekile."
+   },
+   "image_capture_failed_reason": {
+      "message": "Ukuthathwa kwesithombe kuhlulekile ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "Isithombe esingenasihloko"
+   },
+   "invalid_url": {
+      "message": "I-URL engavumelekile: $1. Ama-URL alandiwe kumele aqale ngo-http://, https://, noma ngefayela://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Untitled Page Capture.mht"
+   },
+   "misc": {
+      "message": "Ingxube"
+   },
+   "my_drive": {
+      "message": "IDrayivu yami"
+   },
+   "options_header_text": {
+      "message": "Londoloza ku-Google Drayivu ukukhetha kwezengezo"
+   },
+   "options_title": {
+      "message": "Londoloza ku-Google Drayivu Ukukhetha"
+   },
+   "page_size_not_supported": {
+      "message": "Usayizi wekhasi awusekelwa: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "I-PDF engenasihloko"
+   },
+   "percent": {
+      "message": "Kwenziwe $1%",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Ubumfihlo"
+   },
+   "rename": {
+      "message": "Qamba kabusha"
+   },
+   "rename_prompt": {
+      "message": "Phinda uqambe igama:"
+   },
+   "save_as_html": {
+      "message": "Umthombo we-HTML (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Idokhumenti ye-Google"
+   },
+   "save_as_image_entire": {
+      "message": "Isithombe salo lonke ikhasi (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "Isithombe sekhasi elibonakalayo (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "Ingobo yomlando yewebhu (.mht)"
+   },
+   "save_audio": {
+      "message": "Londoloza umsindo ku-Google Drayivu"
+   },
+   "save_image": {
+      "message": "Londoloza isithombe ku-Google Drayivu"
+   },
+   "save_link": {
+      "message": "Londoloza isixhumanisi ku-Google Drayivu"
+   },
+   "save_page_as": {
+      "message": "Londoloza ikhasi njenge-:"
+   },
+   "save_to_folder_text": {
+      "message": "Londoloza kufolda"
+   },
+   "save_to_google_drive_action": {
+      "message": "Londoloza ku-Google Drayivu"
+   },
+   "save_video": {
+      "message": "Londoloza ividiyo ku-Google Drayivu"
+   },
+   "saving": {
+      "message": "Ilondoloza i-$1 ku-Google Drayivu...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Khetha ifolda ozolondoloza kuyo"
+   },
+   "send_feedback": {
+      "message": "Thumela impendulo"
+   },
+   "sign_out": {
+      "message": "Phuma ngemvume"
+   },
+   "start_download_exception": {
+      "message": "Ukuqala ukulanda kuhlulekile: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "Umbhalo ongenasihloko"
+   },
+   "trash": {
+      "message": "Udoti"
+   },
+   "unspecified_error": {
+      "message": "Iphutha elingacacisiwe"
+   },
+   "upload_canceled": {
+      "message": "Ukulayisha kukhanseliwe"
+   },
+   "upload_failure": {
+      "message": "Ukulayisha kuhlulekile: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "Ilayisha i-$1 ku-Google Drayivu...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">Vula isixhumanisi\u003C/a>, bese ulondoloza ikhasi usebenzisa Londoloza ku-Google Drayivu inkinobho engakwesokudla kwebha yekheli.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "Lesi yisixhumanisi esiya ekhasini lewebhu"
+   },
+   "video_default_filename": {
+      "message": "Ividiyo engenasihloko"
+   },
+   "xml_default_filename": {
+      "message": "I-XML engenasihloko"
+   }
+}

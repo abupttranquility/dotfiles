@@ -1,0 +1,93 @@
+.mauf-wrapper {
+  text-align: center;
+  margin-top: 1em;
+  padding: 0.6em;
+  background-color: #FAFAFA; }
+  .mauf-wrapper .jscolor {
+    font-family: "Lucida Console", Monaco, monospace;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    font-size: 14px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFF !important;
+    padding: 6px 12px;
+    border-radius: 1.3em;
+    border: none;
+    width: 70px; }
+    .mauf-wrapper .jscolor:focus {
+      outline: none; }
+  .mauf-wrapper button {
+    padding: 6px 12px;
+    border-radius: 6px;
+    border: none;
+    font-size: 14px;
+    font-family: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
+    margin-left: 12px;
+    background-color: #0084FF;
+    color: #FFF;
+    cursor: pointer; }
+    .mauf-wrapper button:hover {
+      background-color: #0076E4; }
+    .mauf-wrapper button:focus {
+      outline: none; }
+  .mauf-wrapper .mauf-footer {
+    padding-top: 0.6em;
+    color: #B1B1B1; }
+    .mauf-wrapper .mauf-footer a {
+      color: #B1B1B1;
+      font-size: 12px;
+      display: inline-block; }
+      .mauf-wrapper .mauf-footer a.mauf-android {
+        color: #E255A5; }
+      .mauf-wrapper .mauf-footer a.mauf-review {
+        color: #FF5722; }
+      .mauf-wrapper .mauf-footer a:hover {
+        color: #0084ff;
+        text-decoration: none; }
+
+.mauf-rating-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-color: #0084ff;
+  z-index: 99;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+  .mauf-rating-overlay .mauf-rating-wrapper {
+    padding: 20px;
+    text-align: center; }
+    .mauf-rating-overlay .mauf-rating-wrapper span {
+      color: #FFF; }
+    .mauf-rating-overlay .mauf-rating-wrapper img {
+      display: block;
+      width: 128px;
+      height: 128px;
+      margin: 0 auto 20px; }
+    .mauf-rating-overlay .mauf-rating-wrapper a {
+      display: block; }
+      .mauf-rating-overlay .mauf-rating-wrapper a.mauf-rating-button-android {
+        color: #ffb71d;
+        margin: 6px 0;
+        font-weight: bold; }
+        .mauf-rating-overlay .mauf-rating-wrapper a.mauf-rating-button-android:hover {
+          color: #fed428;
+          text-decoration: none; }
+      .mauf-rating-overlay .mauf-rating-wrapper a.mauf-rating-button-rate {
+        border: 2px solid #fff;
+        color: #0084ff;
+        padding: 10px;
+        border-radius: 20px;
+        font-weight: bold;
+        margin: 10px;
+        background-color: #fff; }
+        .mauf-rating-overlay .mauf-rating-wrapper a.mauf-rating-button-rate:hover {
+          color: #f74c4c;
+          text-decoration: none; }
+      .mauf-rating-overlay .mauf-rating-wrapper a.mauf-rating-button-later {
+        color: rgba(255, 255, 255, 0.6);
+        font-size: 12px;
+        display: none; }

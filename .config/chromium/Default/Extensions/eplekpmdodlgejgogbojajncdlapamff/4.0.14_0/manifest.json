@@ -1,0 +1,27 @@
+{
+   "background": {
+      "scripts": [ "js/jquery-3.1.1.js", "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/enableIcon.png",
+      "default_popup": "popup/popup.html",
+      "default_title": "Eliminator Slajdów"
+   },
+   "description": "Dodatek eliminuje slajdy w galeriach zdjęć na większości polskich portali",
+   "homepage_url": "http://eliminator-slajdow.raszewski.info/",
+   "icons": {
+      "128": "images/es_logo_large.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCpw7ENkDHO/fYAKd4Jsph3JxVkRCSEmoDidXXPHuHQTlWFncw1mD7NorfxBythgLh/7pSNFosr0/aASIlXMFnhMJRa0MtDgJWS9rBvsxl+c5m8u/XNWLSHa69cm4j1AzdhR8YYr9ieS7IQSN/ZSU6WGll60RAObFPaKk6I81PTdwIDAQAB",
+   "manifest_version": 2,
+   "name": "Eliminator Slajdów",
+   "options_ui": {
+      "chrome_style": true,
+      "open_in_tab": true,
+      "page": "html/options.html"
+   },
+   "permissions": [ "activeTab", "storage", "tabs", "webRequest", "webRequestBlocking", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.0.14",
+   "web_accessible_resources": [ "images/es_logo.svg" ]
+}

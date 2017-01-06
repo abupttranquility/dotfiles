@@ -1,0 +1,1 @@
+define(["require","exports"],function(a,b){"use strict";var c;return function(a){!function(a){a[a.USER=0]="USER",a[a.GROUP=1]="GROUP"}(a.FacebookConversationType||(a.FacebookConversationType={}));a.FacebookConversationType}(c||(c={})),c});

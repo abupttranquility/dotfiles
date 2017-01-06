@@ -1,0 +1,3 @@
+2017/01/04-23:18:30.358 22847 Reusing MANIFEST /home/hackerman/.config/chromium/Default/IndexedDB/https_inbox.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2017/01/04-23:18:30.358 22847 Recovering log #3
+2017/01/04-23:18:30.380 22847 Reusing old log /home/hackerman/.config/chromium/Default/IndexedDB/https_inbox.google.com_0.indexeddb.leveldb/000003.log 

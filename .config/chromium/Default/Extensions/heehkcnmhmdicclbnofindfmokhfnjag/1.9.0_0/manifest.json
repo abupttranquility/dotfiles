@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.keybr.com/"
+      },
+      "urls": [ "http://www.keybr.com/" ]
+   },
+   "description": "Computer Generated Typing Lessons",
+   "icons": {
+      "128": "icon_128x128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDmbPICzOok9180BUEq2zr/9uaSv6F7vibc6jxNK1ICxD0xP7HXik3WwY2JdKzvdZARKCcCuU+TA352hVaiW8SMiCSI7uucnAOW58xl0iwgAkp8p9mliCRnB+63yQFPcPvRLSqRJteH/SXzvCZwz/Ar/9XMbd+unClIDBIe3sGqBwIDAQAB",
+   "manifest_version": 2,
+   "name": "Typing Lessons",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "short_name": "Typing Lessons",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.9.0"
+}

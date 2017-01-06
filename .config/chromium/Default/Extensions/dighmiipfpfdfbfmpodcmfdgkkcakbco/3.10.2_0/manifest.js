@@ -1,0 +1,2 @@
+!function(o){function e(t){if(r[t])return r[t].exports;var n=r[t]={exports:{},id:t,loaded:!1};return o[t].call(n.exports,n,n.exports,e),n.loaded=!0,n.exports}var r={};return e.m=o,e.c=r,e.p="chrome-extension://dighmiipfpfdfbfmpodcmfdgkkcakbco/",e(0)}([function(o,e,r){o.exports=r.p+"manifest.json"}]);
+//# sourceMappingURL=manifest.js.map

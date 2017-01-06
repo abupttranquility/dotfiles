@@ -1,0 +1,1221 @@
+{
+	"folder_history":
+	[
+		"/home/hackerman/.config/cava",
+		"/etc/X11/xorg.conf.d",
+		"/etc/grub.d",
+		"/home/hackerman/.mpd",
+		"/home/hackerman/.config/i3",
+		"/home/hackerman/.i3"
+	],
+	"last_version": 3126,
+	"last_window_id": 31,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1033.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"font",
+						"font-style"
+					],
+					[
+						"u",
+						"urxvt"
+					],
+					[
+						"Mater",
+						"Materialize"
+					],
+					[
+						"D",
+						"Dark"
+					],
+					[
+						"e",
+						"endl"
+					],
+					[
+						"lo",
+						"log"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 312.0,
+				"last_filter": "bracke",
+				"selected_items":
+				[
+					[
+						"bracke",
+						"BracketHighlighter: Toggle Global Enable"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"wordc",
+						"LaTeXWordCount: Word Count"
+					],
+					[
+						"prefere",
+						"Preferences: Settings"
+					],
+					[
+						"remove pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: remove pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Local Dependency"
+					],
+					[
+						"materialtheme act",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"BracketHighlighter: Toggle String Bracket Escape Mode"
+					],
+					[
+						"material",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"c++",
+						"Build With: C++ Single File - Run"
+					],
+					[
+						"package",
+						"Package Control: Enable Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"snippet",
+						"Snippet: main()"
+					],
+					[
+						"c",
+						"Set Syntax: C++"
+					],
+					[
+						"set syntax text",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"set syntax",
+						"Preferences: Settings – Syntax Specific"
+					],
+					[
+						"syntax",
+						"Set Syntax: CSS"
+					],
+					[
+						"bash",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"me",
+						"View: Toggle Menu"
+					],
+					[
+						"packageview",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"packageres",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"word",
+						"LaTeXWordCount: Word Count"
+					],
+					[
+						"vmen",
+						"View: Toggle Menu"
+					],
+					[
+						"color",
+						"Color Picker: Insert Color"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"material theme",
+						"Material Theme: Configuration"
+					],
+					[
+						"mater",
+						"Material Theme: Extras"
+					],
+					[
+						"materia",
+						"Material Theme: Activate theme"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"packag",
+						"Install Package Control"
+					]
+				],
+				"width": 503.0
+			},
+			"console":
+			{
+				"height": 225.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": false,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/hackerman/documents/fizykaoze/odnawialnezrodlaenergiiGLIW.tex",
+				"/home/hackerman/documents/fizykaoze/odnawialnezrodlaenergiiKATO.tex",
+				"/home/hackerman/.config/cava/config",
+				"/home/hackerman/.dmenu_search.sh",
+				"/home/hackerman/.config/i3/config",
+				"/home/hackerman/.bashrc",
+				"/mnt/wine/Red Hot Chili Peppers/resources/rhcpmania.pl/public_html/index.php",
+				"/home/hackerman/.yaourtrc",
+				"/home/hackerman/If a referendum on EU membership was held today_files/EWkIn.all.css",
+				"/home/hackerman/If a referendum on EU membership was held today.html",
+				"/home/hackerman/.config/mpv/input.conf",
+				"/etc/systemd/logind.conf",
+				"/home/hackerman/Downloads/gnuplotwykres",
+				"/home/hackerman/documents/wykres/wykrespudelta.csv",
+				"/home/hackerman/documents/wykres/wykresaudelta.csv",
+				"/home/hackerman/documents/missfont.log",
+				"/home/hackerman/Downloads/wykres.csv",
+				"/home/hackerman/keyboardpl.sh",
+				"/home/hackerman/Downloads/wykres1.csv",
+				"/etc/X11/xorg.conf",
+				"/home/hackerman/data.dat",
+				"/home/hackerman/.config/gummi/gummi.cfg",
+				"/home/hackerman/.config/gummi/filecontents/README",
+				"/home/hackerman/.xinitrc",
+				"/etc/pacman.conf",
+				"/home/hackerman/speedtest/speedtest-ifttt.sh",
+				"/home/hackerman/speedtest/speedtest-csv",
+				"/etc/cron.hourly/0anacron",
+				"/etc/cron.hourly/speedtest-ifttt",
+				"/etc/cron.hourly/timesync",
+				"/home/hackerman/.mpd/mpd.conf",
+				"/home/hackerman/.ncmpcpp/config",
+				"/home/hackerman/speedtest/speedtest-cron.sh",
+				"/home/hackerman/.Xdefaults",
+				"/etc/cron.d/0hourly",
+				"/home/hackerman/colors.sh",
+				"/etc/cron.hourly",
+				"/etc/grub.d/40_custom",
+				"/var/log/pacman.log",
+				"/etc/default/grub",
+				"/etc/fstab",
+				"/etc/default/grub.",
+				"/home/hackerman/.emacs",
+				"/home/hackerman/.config/gtk-3.0/settings.ini",
+				"/home/hackerman/.gtkrc-2.0",
+				"/usr/share/gtk-2.0/gtkrc",
+				"/home/hackerman/.mydircolors",
+				"/home/hackerman/.conf/i3/config",
+				"/tmp/yaourt-tmp-hackerman/aur-cava/PKGBUILD",
+				"/home/hackerman/.i3status.conf",
+				"/etc/profile",
+				"/home/hackerman/.i3/config",
+				"/etc/rc.conf",
+				"/etc/vconsole.conf",
+				"/home/hackerman/.mpdscribble/mpdscribble.conf",
+				"/home/hackerman/.xinit",
+				"/home/hackerman/.config/gtk-3.0",
+				"/gtk-3.0/settings.ini",
+				"/etc/sudoers",
+				"/usr/bin/subl",
+				"/home/hackerman/echo",
+				"/etc/i3status.conf",
+				"/home/hackerman/.Xresources",
+				"/home/hackerman/.git/info/exclude",
+				"/home/hackerman/.mpd/config",
+				"/home/hackerman/programming/iteracja121.cpp",
+				"/home/hackerman/.mnt.sh",
+				"/home/hackerman/msc.sh",
+				"/home/hackerman/.mntsh",
+				"/home/hackerman/.mpdscribble/mpdscribble.config",
+				"/home/hackerman/.mpdscribble/conf",
+				"/home/hackerman/.config/.mpd",
+				"/home/hackerman/.config/mpd/conf",
+				"/home/hackerman/mnt.sh",
+				"/home/hackerman/.i3/.config",
+				"/home/hackerman/GenerateMe/pixeldrifter/pixeldrifter.pde",
+				"/etc/mpdscribble.conf",
+				"/home/hackerman/Documents/koncepcjeludzkiegolosu",
+				"/home/hackerman/Documents/wypociny.txt",
+				"/home/hackerman/Pictures/scrot/.screenshot.sh",
+				"/home/hackerman/.scr.sh",
+				"/home/hackerman/.home/hackerman/Pictures/scrot/.screenshot.sh",
+				"/home/hackerman/pictures",
+				"/home/hackerman/.conf/i3/conf",
+				"/usr/share/config/kdm/kdmrc",
+				"/home/hackerman/.screenshot.sh",
+				"/home/hackerman/android/sdk/tools/android",
+				"/home/hackerman/android/android-sdk-linux/SDK Readme.txt",
+				"/home/hackerman/fonts.txt",
+				"/dev/fd/63",
+				"/home/hackerman/-",
+				"/home/hackerman/324",
+				"/home/hackerman/.xdefaults",
+				"/home/hackerman/.config/i3/.xdefaults",
+				"/home/hackerman/.config/i3/.Xdefaults",
+				"/home/hackerman/i3-dmenu-desktop",
+				"/home/hackerman/i3-dmenu-desktop--dmenu=dmenu-nb#002b36-nf#839496-sb#073642-sf#93a1a1",
+				"/etc/i3/config",
+				"//kde-image-pkgs.txt",
+				"//kde-imag-pkgs.txt",
+				"//kde-imag-=pkgs.txt",
+				"/home/hackerman/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/hackerman/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/hackerman/.xsession",
+				"/home/hackerman/.i3/workspace_3.json",
+				"/etc/rc.local",
+				"/home/hackerman/.i3/config/config",
+				"/home/hackerman/.i3/workspace-3.json",
+				"/home/hackerman/.i3/workspace-1.json",
+				"/home/hackerman/.i3/workspace=1.json",
+				"/home/hackerman/.config/gtk-3.0/settings",
+				"/home/hackerman/.config/gtk-3.0/.ini",
+				"/home/hackerman/.i3blocks.conf",
+				"/home/hackerman/programming/random/beta2.cpp",
+				"/home/hackerman/.config/sublime-text-3/Packages/Material Theme/Preferences.sublime-settings",
+				"/home/hackerman/programming/triangle.cpp",
+				"/usr/share/applications/codeblocks.desktop",
+				"/home/hackerman/programming/random/input",
+				"/home/hackerman/asoundconfbackup",
+				"/home/hackerman/programming/helikopter/helikopter.cpp",
+				"/home/hackerman/programming/helikopter/stdin.input",
+				"/home/hackerman/programming/sizeof/sizeof.cpp",
+				"/home/hackerman/eclipse/cpp-neon2/eclipse/configuration/org.eclipse.oomph.setup/setup.log",
+				"/home/hackerman/msngrinst/.PKGBUILD",
+				"/tmp/yaourt-tmp-hackerman/aur-messengerfordesktop/PKGBUILD",
+				"/home/hackerman/Documents/Material-Theme.sublime-themeBACKUPMAIA",
+				"/home/hackerman/Documents/Material-Theme.tmThemeBACKUPMAIA",
+				"/home/hackerman/.config/sublime-text-3/Packages/Material Theme/Material-Theme.skins"
+			],
+			"find":
+			{
+				"height": 72.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"'",
+					"dmenu",
+					"  ",
+					"\\clearpage",
+					".jpg",
+					"\\begin{figure",
+					"\\includegraphics[scale=0.2]",
+					"\\par ",
+					"\\begin{itemize",
+					"\\end{itemize",
+					"\\begin{table[ht]",
+					"\\end{tabular",
+					"\\hline",
+					"\\bigskip",
+					"|l",
+					"\\begin{tabular{",
+					"\\end{table",
+					"}",
+					"\\noindent",
+					"\\end{center}",
+					"\\begin{center}",
+					"\\newpage",
+					"\\section{",
+					"\\subsection{",
+					"\\begin{enumerate}",
+					"\\begin{figure}[H]",
+					"{",
+					"\\caption{",
+					"\\centering",
+					"\\includegraphics[scale=0.25]",
+					"\\end{figure}",
+					"\\item",
+					"item",
+					"\\",
+					"<span>",
+					"</span>",
+					"<span",
+					"0, 168, 155",
+					"93, 188, 210",
+					"rgb(255, 64, 86)",
+					"rgb",
+					" or 1 ppt",
+					"volum",
+					"\\times",
+					"\\section",
+					"\\item",
+					"\\end{itemize}",
+					"\\begin{itemize}",
+					"\\subsection",
+					"newpage",
+					"keybo",
+					"gnuplot> ",
+					"0.001",
+					",",
+					"2",
+					".",
+					"csv",
+					"keyboar",
+					" ",
+					"/run/media/hackerman/BACE6021CE5FD46B/",
+					"#",
+					"+",
+					", ",
+					"YOUR_USERNAME",
+					"home/hackerman",
+					"/home",
+					"scree",
+					"#",
+					"// \"",
+					"// split",
+					"fdf6e3",
+					"XTerm",
+					"*",
+					"eee8d5",
+					"fdf6e3",
+					"*",
+					"}\"",
+					"galih",
+					"/media/Data/Music/",
+					"std::",
+					" ?",
+					"\"",
+					"\"size",
+					"ivan",
+					"tab",
+					"38, 50, 56",
+					"263238",
+					"38, 50, 56",
+					"263238"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 71.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 168.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1892.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"font",
+						"font-style"
+					],
+					[
+						"u",
+						"urxvt"
+					],
+					[
+						"Mater",
+						"Materialize"
+					],
+					[
+						"D",
+						"Dark"
+					],
+					[
+						"e",
+						"endl"
+					],
+					[
+						"lo",
+						"log"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "menu",
+				"selected_items":
+				[
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"bracke",
+						"BracketHighlighter: Toggle Global Enable"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"wordc",
+						"LaTeXWordCount: Word Count"
+					],
+					[
+						"prefere",
+						"Preferences: Settings"
+					],
+					[
+						"remove pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: remove pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Local Dependency"
+					],
+					[
+						"materialtheme act",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"BracketHighlighter: Toggle String Bracket Escape Mode"
+					],
+					[
+						"material",
+						"Material Theme: Advanced configuration"
+					],
+					[
+						"c++",
+						"Build With: C++ Single File - Run"
+					],
+					[
+						"package",
+						"Package Control: Enable Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"snippet",
+						"Snippet: main()"
+					],
+					[
+						"c",
+						"Set Syntax: C++"
+					],
+					[
+						"set syntax text",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"set syntax",
+						"Preferences: Settings – Syntax Specific"
+					],
+					[
+						"syntax",
+						"Set Syntax: CSS"
+					],
+					[
+						"bash",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"me",
+						"View: Toggle Menu"
+					],
+					[
+						"packageview",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"packageres",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"word",
+						"LaTeXWordCount: Word Count"
+					],
+					[
+						"vmen",
+						"View: Toggle Menu"
+					],
+					[
+						"color",
+						"Color Picker: Insert Color"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"material theme",
+						"Material Theme: Configuration"
+					],
+					[
+						"mater",
+						"Material Theme: Extras"
+					],
+					[
+						"materia",
+						"Material Theme: Activate theme"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"packag",
+						"Install Package Control"
+					]
+				],
+				"width": 503.0
+			},
+			"console":
+			{
+				"height": 225.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": false,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/hackerman/.config/cava"
+			],
+			"file_history":
+			[
+				"/home/hackerman/.git/info/exclude",
+				"/home/hackerman/documents/fizykaoze/odnawialnezrodlaenergiiGLIW.tex",
+				"/home/hackerman/documents/fizykaoze/odnawialnezrodlaenergiiKATO.tex",
+				"/home/hackerman/.config/cava/config",
+				"/home/hackerman/.dmenu_search.sh",
+				"/home/hackerman/.config/i3/config",
+				"/home/hackerman/.bashrc",
+				"/mnt/wine/Red Hot Chili Peppers/resources/rhcpmania.pl/public_html/index.php",
+				"/home/hackerman/.yaourtrc",
+				"/home/hackerman/If a referendum on EU membership was held today_files/EWkIn.all.css",
+				"/home/hackerman/If a referendum on EU membership was held today.html",
+				"/home/hackerman/.config/mpv/input.conf",
+				"/etc/systemd/logind.conf",
+				"/home/hackerman/Downloads/gnuplotwykres",
+				"/home/hackerman/documents/wykres/wykrespudelta.csv",
+				"/home/hackerman/documents/wykres/wykresaudelta.csv",
+				"/home/hackerman/documents/missfont.log",
+				"/home/hackerman/Downloads/wykres.csv",
+				"/home/hackerman/keyboardpl.sh",
+				"/home/hackerman/Downloads/wykres1.csv",
+				"/etc/X11/xorg.conf",
+				"/home/hackerman/data.dat",
+				"/home/hackerman/.config/gummi/gummi.cfg",
+				"/home/hackerman/.config/gummi/filecontents/README",
+				"/home/hackerman/.xinitrc",
+				"/etc/pacman.conf",
+				"/home/hackerman/speedtest/speedtest-ifttt.sh",
+				"/home/hackerman/speedtest/speedtest-csv",
+				"/etc/cron.hourly/0anacron",
+				"/etc/cron.hourly/speedtest-ifttt",
+				"/etc/cron.hourly/timesync",
+				"/home/hackerman/.mpd/mpd.conf",
+				"/home/hackerman/.ncmpcpp/config",
+				"/home/hackerman/speedtest/speedtest-cron.sh",
+				"/home/hackerman/.Xdefaults",
+				"/etc/cron.d/0hourly",
+				"/home/hackerman/colors.sh",
+				"/etc/cron.hourly",
+				"/etc/grub.d/40_custom",
+				"/var/log/pacman.log",
+				"/etc/default/grub",
+				"/etc/fstab",
+				"/etc/default/grub.",
+				"/home/hackerman/.emacs",
+				"/home/hackerman/.config/gtk-3.0/settings.ini",
+				"/home/hackerman/.gtkrc-2.0",
+				"/usr/share/gtk-2.0/gtkrc",
+				"/home/hackerman/.mydircolors",
+				"/home/hackerman/.conf/i3/config",
+				"/tmp/yaourt-tmp-hackerman/aur-cava/PKGBUILD",
+				"/home/hackerman/.i3status.conf",
+				"/etc/profile",
+				"/home/hackerman/.i3/config",
+				"/etc/rc.conf",
+				"/etc/vconsole.conf",
+				"/home/hackerman/.mpdscribble/mpdscribble.conf",
+				"/home/hackerman/.xinit",
+				"/home/hackerman/.config/gtk-3.0",
+				"/gtk-3.0/settings.ini",
+				"/etc/sudoers",
+				"/usr/bin/subl",
+				"/home/hackerman/echo",
+				"/etc/i3status.conf",
+				"/home/hackerman/.Xresources",
+				"/home/hackerman/.mpd/config",
+				"/home/hackerman/programming/iteracja121.cpp",
+				"/home/hackerman/.mnt.sh",
+				"/home/hackerman/msc.sh",
+				"/home/hackerman/.mntsh",
+				"/home/hackerman/.mpdscribble/mpdscribble.config",
+				"/home/hackerman/.mpdscribble/conf",
+				"/home/hackerman/.config/.mpd",
+				"/home/hackerman/.config/mpd/conf",
+				"/home/hackerman/mnt.sh",
+				"/home/hackerman/.i3/.config",
+				"/home/hackerman/GenerateMe/pixeldrifter/pixeldrifter.pde",
+				"/etc/mpdscribble.conf",
+				"/home/hackerman/Documents/koncepcjeludzkiegolosu",
+				"/home/hackerman/Documents/wypociny.txt",
+				"/home/hackerman/Pictures/scrot/.screenshot.sh",
+				"/home/hackerman/.scr.sh",
+				"/home/hackerman/.home/hackerman/Pictures/scrot/.screenshot.sh",
+				"/home/hackerman/pictures",
+				"/home/hackerman/.conf/i3/conf",
+				"/usr/share/config/kdm/kdmrc",
+				"/home/hackerman/.screenshot.sh",
+				"/home/hackerman/android/sdk/tools/android",
+				"/home/hackerman/android/android-sdk-linux/SDK Readme.txt",
+				"/home/hackerman/fonts.txt",
+				"/dev/fd/63",
+				"/home/hackerman/-",
+				"/home/hackerman/324",
+				"/home/hackerman/.xdefaults",
+				"/home/hackerman/.config/i3/.xdefaults",
+				"/home/hackerman/.config/i3/.Xdefaults",
+				"/home/hackerman/i3-dmenu-desktop",
+				"/home/hackerman/i3-dmenu-desktop--dmenu=dmenu-nb#002b36-nf#839496-sb#073642-sf#93a1a1",
+				"/etc/i3/config",
+				"//kde-image-pkgs.txt",
+				"//kde-imag-pkgs.txt",
+				"//kde-imag-=pkgs.txt",
+				"/home/hackerman/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/hackerman/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/hackerman/.xsession",
+				"/home/hackerman/.i3/workspace_3.json",
+				"/etc/rc.local",
+				"/home/hackerman/.i3/config/config",
+				"/home/hackerman/.i3/workspace-3.json",
+				"/home/hackerman/.i3/workspace-1.json",
+				"/home/hackerman/.i3/workspace=1.json",
+				"/home/hackerman/.config/gtk-3.0/settings",
+				"/home/hackerman/.config/gtk-3.0/.ini",
+				"/home/hackerman/.i3blocks.conf",
+				"/home/hackerman/programming/random/beta2.cpp",
+				"/home/hackerman/.config/sublime-text-3/Packages/Material Theme/Preferences.sublime-settings",
+				"/home/hackerman/programming/triangle.cpp",
+				"/usr/share/applications/codeblocks.desktop",
+				"/home/hackerman/programming/random/input",
+				"/home/hackerman/asoundconfbackup",
+				"/home/hackerman/programming/helikopter/helikopter.cpp",
+				"/home/hackerman/programming/helikopter/stdin.input",
+				"/home/hackerman/programming/sizeof/sizeof.cpp",
+				"/home/hackerman/eclipse/cpp-neon2/eclipse/configuration/org.eclipse.oomph.setup/setup.log",
+				"/home/hackerman/msngrinst/.PKGBUILD",
+				"/tmp/yaourt-tmp-hackerman/aur-messengerfordesktop/PKGBUILD",
+				"/home/hackerman/Documents/Material-Theme.sublime-themeBACKUPMAIA",
+				"/home/hackerman/Documents/Material-Theme.tmThemeBACKUPMAIA",
+				"/home/hackerman/.config/sublime-text-3/Packages/Material Theme/Material-Theme.skins"
+			],
+			"find":
+			{
+				"height": 72.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"'",
+					"dmenu",
+					"  ",
+					"\\clearpage",
+					".jpg",
+					"\\begin{figure",
+					"\\includegraphics[scale=0.2]",
+					"\\par ",
+					"\\begin{itemize",
+					"\\end{itemize",
+					"\\begin{table[ht]",
+					"\\end{tabular",
+					"\\hline",
+					"\\bigskip",
+					"|l",
+					"\\begin{tabular{",
+					"\\end{table",
+					"}",
+					"\\noindent",
+					"\\end{center}",
+					"\\begin{center}",
+					"\\newpage",
+					"\\section{",
+					"\\subsection{",
+					"\\begin{enumerate}",
+					"\\begin{figure}[H]",
+					"{",
+					"\\caption{",
+					"\\centering",
+					"\\includegraphics[scale=0.25]",
+					"\\end{figure}",
+					"\\item",
+					"item",
+					"\\",
+					"<span>",
+					"</span>",
+					"<span",
+					"0, 168, 155",
+					"93, 188, 210",
+					"rgb(255, 64, 86)",
+					"rgb",
+					" or 1 ppt",
+					"volum",
+					"\\times",
+					"\\section",
+					"\\item",
+					"\\end{itemize}",
+					"\\begin{itemize}",
+					"\\subsection",
+					"newpage",
+					"keybo",
+					"gnuplot> ",
+					"0.001",
+					",",
+					"2",
+					".",
+					"csv",
+					"keyboar",
+					" ",
+					"/run/media/hackerman/BACE6021CE5FD46B/",
+					"#",
+					"+",
+					", ",
+					"YOUR_USERNAME",
+					"home/hackerman",
+					"/home",
+					"scree",
+					"#",
+					"// \"",
+					"// split",
+					"fdf6e3",
+					"XTerm",
+					"*",
+					"eee8d5",
+					"fdf6e3",
+					"*",
+					"}\"",
+					"galih",
+					"/media/Data/Music/",
+					"std::",
+					" ?",
+					"\"",
+					"\"size",
+					"ivan",
+					"tab",
+					"38, 50, 56",
+					"263238",
+					"38, 50, 56",
+					"263238"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/hackerman/.config/cava"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 71.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 168.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+			"position": "0,0,0,0,0,1351,538,1904,1045,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 30,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

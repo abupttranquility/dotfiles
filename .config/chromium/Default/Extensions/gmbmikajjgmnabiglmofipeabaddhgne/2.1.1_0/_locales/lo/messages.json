@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "ບັນຊີ"
+   },
+   "apply": {
+      "message": "ນຳໃຊ້"
+   },
+   "audio_default_filename": {
+      "message": "ສຽງບໍ່ມີຊື່"
+   },
+   "authorization_needed": {
+      "message": "​ທ່ານ​ຕ້ອງ​ອະ​ນຸ​ຍາດ ບັນທຶກໃສ່ Google Drive."
+   },
+   "cancel": {
+      "message": "ຍົກເລີກ"
+   },
+   "cannot_capture_chrome": {
+      "message": "ບໍ່ສາມາດ​ບັນທຶກ​ພາບໜ້າເວັບ Chrome ໄດ້. ໃຫ້ລອງ​ໜ້າເວັບ​ມາດຕະຖານ."
+   },
+   "change_dest_folder": {
+      "message": "ປ່ຽນໂຟນເດີປາຍທາງ..."
+   },
+   "chrome_extension_name": {
+      "message": "ບັນທຶກໃສ່ Google Drive"
+   },
+   "close": {
+      "message": "ປິດ"
+   },
+   "convert_to_google_format": {
+      "message": "ແປງລິ້ງ​ທີ່ບັນທຶກໄວ້ໃຫ້​ເປັນຮູບແບບ​ໂຕແກ້ໄຂ Google ແລ້ວ"
+   },
+   "debug": {
+      "message": "ດີບັກ"
+   },
+   "default_filename": {
+      "message": "ບໍ່ມີຊື່"
+   },
+   "download_canceled": {
+      "message": "ຍົກເລີກການດາວໂຫລດແລ້ວ."
+   },
+   "download_failure": {
+      "message": "ດາວໂຫລດລົ້ມເຫລວ: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "ດາວໂຫລດລົ້ມເຫລວ: ບໍ່ໄດ້ຮັບຂໍ້ມູນ."
+   },
+   "download_failure_too_big_mb": {
+      "message": "ດາວໂຫລດລົ້ມເຫລວ: ແຫລ່ງຂໍ້ມູນໃຫຍ່ເກີນໄປ ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "ກຳລັງດາວໂຫລດ $1 ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "ກຳລັງດາວໂຫລດ..."
+   },
+   "empty_page_capture": {
+      "message": "ບໍ່ສາມາດຈັບເນື້ອຫາຂອງໜ້າເປັນ MHTML ໄດ້"
+   },
+   "enable_file_url": {
+      "message": "URL ຂອງໄຟລ໌ຈະຕ້ອງເປີດໃຊ້ໂຕເລືອກ \"ອະນຸຍາດເຂົ້າເຖິງ URL ຂອງໄຟລ໌\" ໃນໜ້າການຕັ້ງຄ່າ Extensions."
+   },
+   "ext_description": {
+      "message": "ບັນທຶກເນື້ອຫາໃນເວັບ ຫຼື ຖ່າຍພາບໜ້າຈໍໂດຍກົງໄປຍັງ Google Drive."
+   },
+   "failure_page_capture": {
+      "message": "ບໍ່ສາມາດຈັບເນື້ອຫາຂອງໜ້າເປັນ MHTML ໄດ້: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "ສົ່ງຄຳຕິຊົມ (ພາຍໃນເທົ່ານັ້ນ)"
+   },
+   "file_bug_internal": {
+      "message": "ແຈ້ງບັ໊ກ (ພາຍໃນເທົ່ານັ້ນ)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\"> \u003C/a> ໄດ້ຖືກບັນທຶກເປັນ \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\"> \u003C/a> . \u003Cspan id=\"$5\"> (\u003Ca href=\"$6\" target=\"_blank\"> ປ່ຽນ \u003C/a>) \u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> ໄດ້ຖືກຍ້າຍໄປຖັງຂີ້ເຫຍື້ອແລ້ວ. ໄປຍັງ \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google Drive\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help": {
+      "message": "ຊ່ວຍເຫຼືອ"
+   },
+   "html_default_filename": {
+      "message": "HTML ບໍ່ມີຊື່"
+   },
+   "image_capture_failed": {
+      "message": "ການບັນທຶກຮູບລົ້ມເຫຼວ."
+   },
+   "image_capture_failed_reason": {
+      "message": "ການຖ່າຍຮູບລົ້ມເຫລວ ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "ຮູບບໍ່ມີຊື່"
+   },
+   "invalid_url": {
+      "message": "URL ບໍ່ຖືກຕ້ອງ: $1. URL ທີ່ດາວໂຫລດມາຕ້ອງເລີ່ມດ້ວຍ http://, https://, ຫຼື file://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Untitled Page Capture.mht"
+   },
+   "misc": {
+      "message": "ອື່ນໆ"
+   },
+   "my_drive": {
+      "message": "My Drive"
+   },
+   "options_header_text": {
+      "message": "ບັນທຶກໃສ່ Google Drive ຕົວເລືອກໃນເອັກເທັນເຊິນ"
+   },
+   "options_title": {
+      "message": "ບັນທຶກໃສ່ Google Drive ຕົວເລືອກ"
+   },
+   "page_size_not_supported": {
+      "message": "ບໍ່ຮອງຮັບຂະຫນາດຫນ້າ: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "PDF ບໍ່ມີຊື່"
+   },
+   "percent": {
+      "message": "$1% ແລ້ວໆ",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "ຄວາມເປັນສ່ວນຕົວ"
+   },
+   "rename": {
+      "message": "ປ່ຽນຊື່"
+   },
+   "rename_prompt": {
+      "message": "ປ່ຽນຊື່:"
+   },
+   "save_as_html": {
+      "message": "HTML source (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Google Document"
+   },
+   "save_as_image_entire": {
+      "message": "ຮູບຂອງໜ້າເວັບທັງໜ້າ (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "ຮູບຂອງໜ້າເວັບທີ່ເບິ່ງເຫັນ (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "Web archive (.mht)"
+   },
+   "save_audio": {
+      "message": "ສົ່ງສຽງໄປ Google Drive"
+   },
+   "save_image": {
+      "message": "ສົ່ງຮູບໄປ Google Drive"
+   },
+   "save_link": {
+      "message": "ບັນທຶກລິ້ງໃສ່ Google Drive"
+   },
+   "save_page_as": {
+      "message": "ບັນທຶກໜ້າເປັນ:"
+   },
+   "save_to_folder_text": {
+      "message": "ບັນທຶກໃສ່ໂຟນເດີ"
+   },
+   "save_to_google_drive_action": {
+      "message": "ບັນທຶກໃສ່ Google Drive"
+   },
+   "save_video": {
+      "message": "ບັນທຶກວິດີໂອໃສ່ Google Drive"
+   },
+   "saving": {
+      "message": "ກຳລັງບັນທຶກ $1 ໃສ່ Google Drive ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "ເລືອກໂຟນເດີສຳລັບການບັນທຶກ"
+   },
+   "send_feedback": {
+      "message": "ສົ່ງຂໍ້ຕິຊົມ"
+   },
+   "sign_out": {
+      "message": "ອອກຈາກລະບົບ"
+   },
+   "start_download_exception": {
+      "message": "ລົ້ມເຫລວໃນການເລີ່ມດາວໂຫລດ: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "ຂໍ້ຄວາມບໍ່ມີຊື່"
+   },
+   "trash": {
+      "message": "ຖັງຂີ້ເຫຍື້ອ"
+   },
+   "unspecified_error": {
+      "message": "ຂໍ້ຜິດພາດທີ່ບໍ່ລະບຸ"
+   },
+   "upload_canceled": {
+      "message": "ຍົກເລີກການອັບໂຫລດແລ້ວ"
+   },
+   "upload_failure": {
+      "message": "ອັບໂຫລດລົ້ມເຫຼວ​: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "ກຳລັງອັບໂຫຼດ $1 ໃສ່ Google Drive ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">ເປີດລິ້ງ\u003C/a> ແລະບັນທຶກໜ້າເວັບໂດຍໃຊ້ປຸ່ມ ບັນທຶກໃສ່ Google Drive ທີ່ຢູ່ທາງຂວາຖັດຈາກແຖບທີ່ຢູ່ເວັບໄຊ.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "ນີ້ແມ່ນລິ້ງໄປຫາຫນ້າເວັບໃດຫນຶ່ງ"
+   },
+   "video_default_filename": {
+      "message": "ວິດີໂອບໍ່ມີຊື່"
+   },
+   "xml_default_filename": {
+      "message": "XML ບໍ່ມີຊື່"
+   }
+}

@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){requirejs.config({baseUrl:chrome.runtime.getURL("js")}),require(["content-scripts/messenger-cs"],function(a){a.run()})},!1);

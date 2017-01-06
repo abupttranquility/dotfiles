@@ -1,0 +1,27 @@
+{
+   "background": {
+      "scripts": [ "vendor/require.js", "core/background/requirejs-config.js", "core/background/main.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "connectors/dummy.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "content_security_policy": "script-src 'self' https://www.google-analytics.com/analytics.js; object-src 'self'",
+   "description": "Scrobble music all around the web!",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icons/page_action_base.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDPvRk2TRWcLqM9RsKXmxBHM6hFBHYhUUQfffv/RpRVum6le1VvH5Ld9oRGG5rrBaAt7DDs6IsYKk7TzZoaqq/1ajW+dZsxtvTVZ9ylnwmBZ1yNbe1vYz/2QYthS1lmVhDheLzZwN19eQ0FKkSlejeRZ4+eMcqLrcuf5ReKEDpCXwIDAQAB",
+   "manifest_version": 2,
+   "name": "Last.fm Scrobbler",
+   "options_page": "options/options.html",
+   "page_action": {
+      "chromeBroken": "remove this line after issue #86449 is resolved"
+   },
+   "permissions": [ "tabs", "notifications", "storage", "https://ws.audioscrobbler.com/2.0/", "https://gdata.youtube.com/feeds/api/videos/", "http://*/", "https://*/" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.60.2",
+   "web_accessible_resources": [ "icon128.png", "connectors/v2/soundcloud-dom-inject.js", "connectors/v2/vk-dom-inject.js" ]
+}

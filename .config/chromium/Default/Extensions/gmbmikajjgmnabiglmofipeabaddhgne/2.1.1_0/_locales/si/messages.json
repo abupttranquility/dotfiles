@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "ගිණුම"
+   },
+   "apply": {
+      "message": "අයදුම් කරන්න"
+   },
+   "audio_default_filename": {
+      "message": "නම් නොකළ ශ්‍රව්‍ය මාධ්‍යය"
+   },
+   "authorization_needed": {
+      "message": "ඔබ Google Drive වෙත සුරකින්න හට අවසර දිය යුතුය."
+   },
+   "cancel": {
+      "message": "අවලංගු කරන්න"
+   },
+   "cannot_capture_chrome": {
+      "message": "Chrome පිටු තිර ලබා ගැනීමට නොහැක. සම්මත වෙබ් පිටුවක් උත්සාහ කරන්න."
+   },
+   "change_dest_folder": {
+      "message": "ෆෝල්ඩරයේ නියමිත ස්ථානය මාරු කරන්න...."
+   },
+   "chrome_extension_name": {
+      "message": "Google Drive වෙත සුරකින්න"
+   },
+   "close": {
+      "message": "වසන්න"
+   },
+   "convert_to_google_format": {
+      "message": "සුරැකූ සබැඳිය Google සංස්කාරක ආකෘතියට හරවන්න"
+   },
+   "debug": {
+      "message": "නිදොසන්න"
+   },
+   "default_filename": {
+      "message": "නම් නොකළ"
+   },
+   "download_canceled": {
+      "message": "බාගත කිරීම අවලංගු කෙරුණි."
+   },
+   "download_failure": {
+      "message": "බාගතවීමේ දෝෂයක්: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "බාගත කිරීමේ දෝෂයක්: දත්ත කිසිවක් නොලැබුණි."
+   },
+   "download_failure_too_big_mb": {
+      "message": "බාගත කිරීමේ දෝෂයක්: මූලය විශාල වැඩිය ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "$1 බාගත වෙමින් ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "බාගත කරමින් ..."
+   },
+   "empty_page_capture": {
+      "message": "පිටුවල අන්තර්ගතය MHTML ලෙස ලබාගත නොහැකි විය."
+   },
+   "enable_file_url": {
+      "message": "ගොනු URL දිගු සැකසුම් පිටුවෙහි ඇති \"ගොනු URL වෙත ප්‍රවේශය ලබාදෙන්න\" විකල්පය ලෙස සබල විය යුතුය."
+   },
+   "ext_description": {
+      "message": "වෙබ් අන්තර්ගතය හෝ තිර රුව කෙළින්ම Google Drive වෙත සුරකින්න."
+   },
+   "failure_page_capture": {
+      "message": "පිටුවල අන්තර්ගතය MHTML ලෙස ලබාගත නොහැකි විය: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "ප්‍රතිපෝෂණ යවන්න (අභ්‍යන්තරව පමණි)"
+   },
+   "file_bug_internal": {
+      "message": "දෝෂයක් සටහන් කරන්න (අභ්‍යන්තරව පමණි)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a>, \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a> ට සුරකින ලදි. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">වෙනස් කරන්න\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> අපද්‍රව්‍ය වෙත ගෙන ගොස් ඇත. \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google Drive\u003C/a> වෙත යන්න.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help": {
+      "message": "සහාය"
+   },
+   "html_default_filename": {
+      "message": "නම් නොකළ HTML"
+   },
+   "image_capture_failed": {
+      "message": "අනුරූපය ග්‍රහණය කිරීම අසාර්ථකය."
+   },
+   "image_capture_failed_reason": {
+      "message": "අනුරූපය ග්‍රහණය කිරීම අසාර්ථකය ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "නම් නොකළ සේයාරුව"
+   },
+   "invalid_url": {
+      "message": "වලංගු නොවන URL: $1. බාගත් URL, http://, https://, හෝ file:// සමගින් ආරම්භ විය යුතුය.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "නම් නොකළ පිටුව Capture.mht"
+   },
+   "misc": {
+      "message": "විවිධ"
+   },
+   "my_drive": {
+      "message": "මගේ Drive"
+   },
+   "options_header_text": {
+      "message": "Google Drive වෙත සුරකින්න දිගුවේ විකල්ප"
+   },
+   "options_title": {
+      "message": "Google Drive වෙත සුරකින්න විකල්ප"
+   },
+   "page_size_not_supported": {
+      "message": "පිටුවෙහි ප්‍රමාණය සහාය ලබා නොදේ: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "නම් නොකළ PDF"
+   },
+   "percent": {
+      "message": "$1% අවසන්",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "පෞද්ගලිකත්‍වය"
+   },
+   "rename": {
+      "message": "නැවත නම් කරන්න"
+   },
+   "rename_prompt": {
+      "message": "නැවත නම් කරන්න"
+   },
+   "save_as_html": {
+      "message": "HTML මූලය (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Google Document"
+   },
+   "save_as_image_entire": {
+      "message": "මුළු පිටුවෙහිම පිතුරයක් (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "පෙනෙන පිටුවේ අනුරූපය (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "වෙබ් සංරක්ෂිතය (.mht)"
+   },
+   "save_audio": {
+      "message": "ශ්‍රව්‍ය ගොනුව Google Drive වෙතට සුරකින්න"
+   },
+   "save_image": {
+      "message": "පින්තුරය Google Drive වෙතට සුරකින්න"
+   },
+   "save_link": {
+      "message": "සබැඳිය Google Drive වෙත සුරකින්න"
+   },
+   "save_page_as": {
+      "message": "පිටුව සුරකින්නේ:"
+   },
+   "save_to_folder_text": {
+      "message": "ෆෝල්ඩරයට සුරකින්න."
+   },
+   "save_to_google_drive_action": {
+      "message": "Google Drive හි සුරකින්න"
+   },
+   "save_video": {
+      "message": "වීඩියෝව Google Drive වෙත සුරකින්න"
+   },
+   "saving": {
+      "message": "$1 Google Drive හි සුරකින්න...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "සුරැකීමට ෆෝල්ඩරයක් තෝරන්න"
+   },
+   "send_feedback": {
+      "message": "ප්‍රතිපෝෂණය යවන්න"
+   },
+   "sign_out": {
+      "message": "වරනය වන්න"
+   },
+   "start_download_exception": {
+      "message": "බාගත කිරීම ආරම්හ කිරීමේ දෝෂයක්: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "නම් නොකළ පෙළ"
+   },
+   "trash": {
+      "message": "ඉවත ලන දේ"
+   },
+   "unspecified_error": {
+      "message": "සඳහන් නොවන දෝෂයක්"
+   },
+   "upload_canceled": {
+      "message": "උඩුගතවිම අත්හිටුවන ලදී"
+   },
+   "upload_failure": {
+      "message": "උඩුගත කිරීමේ අසාර්ථක වීමක්: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "$1 Google Drive වෙත උඩුගත කරන්න...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">සබැඳිය විවෘත කරන්න\u003C/a>, ඉන්පසු ලිපින තීරුවේ දකුණට වන්නට තිබෙන Google Drive හි සුරකින්න බොත්තම භාවිතා කර පිටුව සුරකින්න.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "මේ තිබෙන්නේ වෙබ් පිටුවට ඇති සබැඳියකි"
+   },
+   "video_default_filename": {
+      "message": "නම් නොකළ වීඩියෝව"
+   },
+   "xml_default_filename": {
+      "message": "නම් නොකළ XML"
+   }
+}
